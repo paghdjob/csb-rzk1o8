@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{42:function(n,e,t){"use strict";t.r(e);var a=t(0),c=t.n(a);e.default=function(n){return c.a.createElement("h1",null,"Contact page")}}}]);
+//# sourceMappingURL=9.a884bf0f.chunk.js.map
